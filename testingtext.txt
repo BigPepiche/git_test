@@ -1,3 +1,5 @@
+This is a test to resolve conflicts
+=======
 Bonjour
 ici, c'est testbranch
 merci beaucoup
